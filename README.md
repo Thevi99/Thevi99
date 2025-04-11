@@ -11,7 +11,7 @@
 
 - 🗽 Based in Bangkok, Thailand
 - 🌐 Portfolio: [nattachaineko-io.vercel.app](https://nattachaineko-io.vercel.app/)
-- 📬 Contact: [myviolet.business@gmail.com](mailto:myviolet.business@gmail.com)
+- 📬 Contact: [myviolet.business@gmail.com](mailto:nattachai.pil@gmail.com)
 - 🧠 I believe in **building things that matter**
 
 ---
