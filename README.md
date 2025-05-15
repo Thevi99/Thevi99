@@ -8,9 +8,8 @@
 ---
 
 ### 💼 About Me
-
 - 🗽 Based in Bangkok, Thailand
-- 🌐 Portfolio: [nattachaineko-io.vercel.app](https://nattachaineko-io.vercel.app/)
+- 🌐 Portfolio: [portfolio-nattachai.vercel.app](https://portfolio-nattachai.vercel.app/)
 - 📬 Contact: [nattachai.pil@gmail.com](mailto:nattachai.pil@gmail.com)
 - 🧠 I believe in **building things that matter**
 
